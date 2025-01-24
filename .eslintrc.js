@@ -25,7 +25,7 @@ module.exports = {
     "prettier/prettier": "error", // Mostra erros do Prettier no ESLint
     "react/react-in-jsx-scope": "off", // Desnecessário com React 17+
     "react/prop-types": "off", // Não necessário com TypeScript
-    "@typescript-eslint/no-unused-vars": ["error", { argsIgnorePattern: "^_" }], // Ignora variáveis com _ no início
+    "@typescript-eslint/no-unused-vars": "error", // Ignora variáveis com _ no início
     "@typescript-eslint/explicit-module-boundary-types": "off", // Não exige tipar funções públicas
     "sort-imports": [
       "error",

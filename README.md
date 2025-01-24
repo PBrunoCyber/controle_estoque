@@ -16,5 +16,18 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
   - `git push -u origin master`
 
 - Configuring eslint
+
   - `npm install --save-dev eslint @typescript-eslint/parser eslint-plugin-import prettier@latest eslint-plugin-prettier eslint-config-prettier`
   - Arquivos envolvidos na configuração: .eslintrc.js, .prettierrc.js e .vscode/settings.json
+
+- NativeWind
+
+  - Seguir os passos do site: [**NativeWind**](https://www.nativewind.dev/getting-started/react-native)
+
+- GlueStack
+
+  - Seguir os passos do site: [**GlueStack**](https://gluestack.io/ui/docs/home/getting-started/installation)
+
+- React navigation
+
+  - Seguir os passos do gpt: [**ReactNavigation**](https://chatgpt.com/c/6793aa8d-b9e4-8008-84de-c37a0db4ee1f)
